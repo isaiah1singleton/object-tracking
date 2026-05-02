@@ -17,17 +17,6 @@ Place your original videos here:
 
 `data/videos/originals/`
 
-For your dataset, that would be files like:
-
-- `data/videos/originals/baseline.mp4`
-- `data/videos/originals/butterfly.mp4`
-- `data/videos/originals/car.mp4`
-- `data/videos/originals/ducks.mp4`
-- `data/videos/originals/runner_dog.mp4`
-- `data/videos/originals/sailboats.mp4`
-- `data/videos/originals/traffic.mp4`
-- `data/videos/originals/walk_into_sun.mp4`
-
 ## Install
 
 ```bash
