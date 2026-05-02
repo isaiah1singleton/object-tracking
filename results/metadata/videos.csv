@@ -1,0 +1,10 @@
+file_name,video_stem,path,width,height,fps,frame_count,duration_sec,file_size_bytes,source_bitrate_bps
+baseline.mp4,baseline,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/baseline.mp4,3840,2160,23.976023976023978,0,11.428083,43353587,30348807
+butterfly.mp4,butterfly,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/butterfly.mp4,3840,2160,23.976023976023978,416,17.302,51120661,23636879
+car.mp4,car,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/car.mp4,3840,2160,29.97002997002997,462,15.355,49539612,25810283
+ducks.mp4,ducks,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/ducks.mp4,3840,2160,29.97002997002997,0,28.795433,311207312,86460186
+runner_dog.mp4,runner_dog,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/runner_dog.mp4,3840,2160,29.97002997002997,321,10.7107,41279073,30832026
+sailboats.mp4,sailboats,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/sailboats.mp4,3840,2160,29.97002997002997,0,28.995633,197583382,54513969
+traffic.mp4,traffic,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/traffic.mp4,3840,2160,30.0,645,20.207031,81422513,32235319
+walk_into_sun.mp4,walk_into_sun,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/walk_into_sun.mp4,3840,2160,29.97002997002997,637,19.36,51891222,21442653
+zipline.mp4,zipline,/Users/isaiahsingleton/Desktop/myAI3/object-tracking/data/videos/originals/zipline.mp4,3840,2160,29.97002997002997,344,11.476667,29252901,20314514

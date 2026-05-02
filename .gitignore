@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.cache/
+data/videos/originals/
+data/videos/compressed/
+results/tracks/
+results/plots/
+results/report_plots/
+results/logs/
